@@ -29,3 +29,9 @@ https://blog.csdn.net/qq_44339029/article/details/120579608?ops_request_misc=%25
 
 安装中文
 https://blog.csdn.net/Misakaya/article/details/146299957?ops_request_misc=%257B%2522request%255Fid%2522%253A%25228aba3ee03470fa31556cbf895f599e85%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=8aba3ee03470fa31556cbf895f599e85&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-146299957-null-null.142^v102^pc_search_result_base6&utm_term=ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95&spm=1018.2226.3001.4187
+
+
+切换到terminator
+exec  x-terminal-emulator
+exec-arg -e
+
