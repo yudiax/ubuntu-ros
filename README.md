@@ -37,3 +37,11 @@ exec-arg -e
 
 
 roslaunch urdf_tutorial display.launch model:=mybot1.urdf
+
+sudo apt-get install ros-noetic-arbotix
+
+先启动roscore,然后运行rosrun
+
+先进入工作区间source ./devel/setup.bash
+
+我在gezebo上导入，发先不显示，重新添加了质量就显示
