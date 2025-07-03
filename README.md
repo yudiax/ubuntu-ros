@@ -35,3 +35,5 @@ https://blog.csdn.net/Misakaya/article/details/146299957?ops_request_misc=%257B%
 exec  x-terminal-emulator
 exec-arg -e
 
+
+roslaunch urdf_tutorial display.launch model:=mybot1.urdf
